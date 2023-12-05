@@ -1,10 +1,7 @@
 
 package pizzashop;
 import java.util.*;
-/**
- *
- * @author Peggy Fisher
- */
+
 public abstract class Pizza implements Comparable{
     public static final int small_diameter = 12; 
     public static final int med_diameter = 14; 
