@@ -2,10 +2,7 @@
 package pizzashop;
 import java.util.*;
 
-/**
- *
- * @author Peggy Fisher
- */
+
 public class Regular extends Pizza{
 
     public Regular()
