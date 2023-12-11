@@ -42,7 +42,7 @@ public class Sicilian extends Pizza {
             System.out.println("Enter topping: ");
             String topping = in.nextLine();
             toppings.add(topping);
-            this.cost += 2.50;//an extra $2.50 for each topping
+            this.cost += 2.50;//an extra $2.50 for each topping...
         }
     }
     
