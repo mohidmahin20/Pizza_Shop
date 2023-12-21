@@ -21,9 +21,6 @@ public class Sicilian extends Pizza {
         return this.cost;
     }
 
-    /**
-     *  Updates the Toppings arraylist
-     */
     @Override
      public void getToppings()
     {
