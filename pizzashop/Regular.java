@@ -18,9 +18,7 @@ public class Regular extends Pizza{
         return this.cost;
     }
 
-    /**
-     *  Updates the Toppings arraylist
-     */
+   
     @Override
     public void getToppings()
     {
