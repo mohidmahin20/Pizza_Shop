@@ -2,10 +2,7 @@ package pizzashop;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Peggy Fisher
- */
+
 public class PizzaShop {
 
    
